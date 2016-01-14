@@ -1,6 +1,6 @@
 NAME		= fillit
 
-SRC			= 
+SRC			= fillit.c ft_lst.c ft_solve.c
 
 OBJ			= $(SRC:.c=.o)
 
